@@ -4,6 +4,8 @@
 
 import { addTask } from "./functions.js";
 
-test('hello jest', () => {
-    expect(1).toBe(1);
+test('add task', () => {
+    const result = addTask({text: 'Task 1'});
+    expect(result.text).toEqual('Task 1');
+    expect(result.id).toBeTruthy();
 });
