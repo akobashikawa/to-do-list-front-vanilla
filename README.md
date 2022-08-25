@@ -1,4 +1,4 @@
 # To Do List - Frontend - Vanilla
 
-## Jest configuration
-- Based on https://stackoverflow.com/a/69059786/740552
+## Jasmine configuration
+- Based on [Introduction to Test Driven Development in JavaScript](https://www.pluralsight.com/guides/introduction-to-test-driven-development-in-javascript)
