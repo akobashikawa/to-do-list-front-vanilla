@@ -1,0 +1,23 @@
+{
+  "name": "todo-list-front-vanilla",
+  "version": "1.0.0",
+  "description": "Simple to do list using vanilla js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma start my.conf.js"
+  },
+  "keywords": [],
+  "author": "Antonio Kobashikawa",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine-core": "^4.3.0",
+    "karma": "^6.4.0",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-coverage": "^2.2.0",
+    "karma-jasmine": "^5.1.0",
+    "karma-module-resolver-preprocessor": "^1.1.3"
+  }
+}
