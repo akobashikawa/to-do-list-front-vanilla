@@ -2,7 +2,7 @@
 
 ## Configuration
 
-- CommonJS modules for base code
+- CommonJS modules for base code (PENDING)
 - CommonJS modules for jest 
 
 ### Jest
