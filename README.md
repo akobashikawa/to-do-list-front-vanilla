@@ -1,6 +1,6 @@
 # To Do List - Frontend - Vanilla
 
-## configuration
+## Configuration
 
 - ES modules for code base
 - ES modules for test
