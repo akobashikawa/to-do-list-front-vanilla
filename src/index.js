@@ -1,4 +1,4 @@
-const addTask = require('addTask');
+const addTask = require('./addTask');
 
 const buttonAddTask = document.getElementById('button-add-task');
 buttonAddTask.onclick = function() {
