@@ -1,4 +1,4 @@
-import { addTask } from "./functions.js";
+import { addTask } from "./addTask.js";
 
 const buttonAddTask = document.getElementById('button-add-task');
 buttonAddTask.onclick = function() {

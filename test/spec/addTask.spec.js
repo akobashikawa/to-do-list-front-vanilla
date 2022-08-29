@@ -1,4 +1,4 @@
-import { addTask } from "../../functions.js";
+import { addTask } from "../../src/addTask.js";
 
 describe('Tasks', function() {
     it('add task', function() {
