@@ -5,7 +5,7 @@
 - ES modules for code base
 - ES modules for test
 
-### Jasmine configuration
+### Jasmine
 
 - Based on [Introduction to Test Driven Development in JavaScript](https://www.pluralsight.com/guides/introduction-to-test-driven-development-in-javascript)
 
